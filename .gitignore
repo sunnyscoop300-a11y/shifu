@@ -1,0 +1,13 @@
+shifu
+sst
+sst386
+tests/
+msdos/
+
+# Not source: downloads, packages, screenshots, games and secrets
+*.tar.gz
+*.zip
+*.ppm
+*.key
+*.WAD
+*.GRP
