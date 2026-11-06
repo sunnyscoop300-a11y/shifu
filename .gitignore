@@ -1,8 +1,8 @@
-shifu
-sst
-sst386
-tests/
-msdos/
+/shifu
+/sst
+/sst386
+/tests/
+/msdos/
 
 # Not source: downloads, packages, screenshots, games and secrets
 *.tar.gz
@@ -11,3 +11,4 @@ msdos/
 *.key
 *.WAD
 *.GRP
+*.log
